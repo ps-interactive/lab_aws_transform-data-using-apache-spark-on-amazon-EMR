@@ -1,21 +1,21 @@
-[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/rushabhdoshi/sparkexamples/03-HelloDataset/target/scala-2.12/hellodataset_2.12-0.1.jar ...[0m
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/rushabhdoshi/sparkexamples/HelloDataset/target/scala-2.12/hellodataset_2.12-0.1.jar ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	guru/learningjournal/spark[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/rushabhdoshi/sparkexamples/03-HelloDataset/target/scala-2.12/classes/guru/learningjournal/spark[0m
-[0m[[0m[0mdebug[0m] [0m[0m	guru/learningjournal/spark/examples[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/rushabhdoshi/sparkexamples/03-HelloDataset/target/scala-2.12/classes/guru/learningjournal/spark/examples[0m
-[0m[[0m[0mdebug[0m] [0m[0m	guru[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/rushabhdoshi/sparkexamples/03-HelloDataset/target/scala-2.12/classes/guru[0m
-[0m[[0m[0mdebug[0m] [0m[0m	guru/learningjournal/spark/examples/HelloDataSet$$typecreator4$1.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/rushabhdoshi/sparkexamples/03-HelloDataset/target/scala-2.12/classes/guru/learningjournal/spark/examples/HelloDataSet$$typecreator4$1.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	guru/learningjournal/spark/examples/SurveyRecord.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/rushabhdoshi/sparkexamples/03-HelloDataset/target/scala-2.12/classes/guru/learningjournal/spark/examples/SurveyRecord.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	guru/learningjournal/spark/examples/HelloDataSet.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/rushabhdoshi/sparkexamples/03-HelloDataset/target/scala-2.12/classes/guru/learningjournal/spark/examples/HelloDataSet.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	guru/learningjournal/spark/examples/SurveyRecord$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/rushabhdoshi/sparkexamples/03-HelloDataset/target/scala-2.12/classes/guru/learningjournal/spark/examples/SurveyRecord$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	guru/learningjournal/spark/examples/HelloDataSet$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/rushabhdoshi/sparkexamples/03-HelloDataset/target/scala-2.12/classes/guru/learningjournal/spark/examples/HelloDataSet$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	guru/learningjournal[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/rushabhdoshi/sparkexamples/03-HelloDataset/target/scala-2.12/classes/guru/learningjournal[0m
+[0m[[0m[0mdebug[0m] [0m[0m	pluralsight/learning/spark/examples/HelloDataSet$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/rushabhdoshi/sparkexamples/HelloDataset/target/scala-2.12/classes/pluralsight/learning/spark/examples/HelloDataSet$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	pluralsight/learning[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/rushabhdoshi/sparkexamples/HelloDataset/target/scala-2.12/classes/pluralsight/learning[0m
+[0m[[0m[0mdebug[0m] [0m[0m	pluralsight/learning/spark/examples/HelloDataSet.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/rushabhdoshi/sparkexamples/HelloDataset/target/scala-2.12/classes/pluralsight/learning/spark/examples/HelloDataSet.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	pluralsight/learning/spark/examples[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/rushabhdoshi/sparkexamples/HelloDataset/target/scala-2.12/classes/pluralsight/learning/spark/examples[0m
+[0m[[0m[0mdebug[0m] [0m[0m	pluralsight/learning/spark/examples/SurveyRecord.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/rushabhdoshi/sparkexamples/HelloDataset/target/scala-2.12/classes/pluralsight/learning/spark/examples/SurveyRecord.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	pluralsight/learning/spark/examples/SurveyRecord$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/rushabhdoshi/sparkexamples/HelloDataset/target/scala-2.12/classes/pluralsight/learning/spark/examples/SurveyRecord$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	pluralsight/learning/spark[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/rushabhdoshi/sparkexamples/HelloDataset/target/scala-2.12/classes/pluralsight/learning/spark[0m
+[0m[[0m[0mdebug[0m] [0m[0m	pluralsight[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/rushabhdoshi/sparkexamples/HelloDataset/target/scala-2.12/classes/pluralsight[0m
+[0m[[0m[0mdebug[0m] [0m[0m	pluralsight/learning/spark/examples/HelloDataSet$$typecreator4$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/rushabhdoshi/sparkexamples/HelloDataset/target/scala-2.12/classes/pluralsight/learning/spark/examples/HelloDataSet$$typecreator4$1.class[0m
 [0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

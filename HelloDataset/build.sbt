@@ -1,5 +1,5 @@
 name := "HelloDataset"
-organization := "guru.learningjournal"
+organization := "pluralsight.learning"
 version := "0.1"
 scalaVersion := "2.12.10"
 autoScalaLibrary := false
